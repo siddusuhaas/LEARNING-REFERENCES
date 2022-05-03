@@ -1,0 +1,4 @@
+this is the line passed using writelines()
+this is 2nd line in list
+this is the line passed using writelines() APPEND MODE
+this is 2nd line in list
